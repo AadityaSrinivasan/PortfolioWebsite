@@ -19,37 +19,27 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I'm deeply passionate about the world of programming and technology, and I've amassed a solid skill set in various programming languages and tools.
               <br />
-              <br />I am fluent in classics like
+              <br />My coding expertise spans languages like 
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> Java, Python, and C++. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
-              </i>
+              In the realm of data analytics, I'm well-versed in DAX and SQL, enabling me to manipulate and analyze data with precision.
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              I'm proficient in utilizing tools like Power BI, Visual Studio, and Visual Studio Code to create impactful solutions.
+              <br />
+              <br />
+              While I have a foundational understanding of HTML and CSS, I primarily focus on leveraging my programming skills to create powerful applications.
+              <br />
+              <br />
+              Join me as I continue to explore and innovate in the ever-evolving world of technology.
+              <br />
+              <br />
+              
             </p>
           </Col>
           <Col md={4} className="myAvtar">
