@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import emotion from "../../Assets/Projects/emotion.png";
-import Website1 from "/Users/aadi/Desktop/College/Personal Projects/Portfolio-master/src/Assets/Projects/Website1.png";
+import Website1 from "../../Assets/Projects/Website1.png";
 
 function Projects() {
   return (
