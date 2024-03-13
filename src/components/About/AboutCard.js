@@ -8,32 +8,31 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Aaditya Srinivasan </span>
-            from <span className="purple"> Houston, Texas.</span>
-            <br /> I am a second year student Majoring in Computer Science and Minoring in Mathematics.
+            Greetings, I am <span className="purple">Aaditya Srinivasan</span>, from the vibrant city of <span className="purple">Houston, Texas</span>.
+            <br /> Currently, I am a second-year student pursuing a Bachelor's degree in Computer Science with a minor in Mathematics.
             <br />
-            Apart from coding, some other activities that I love to do!
+            Beyond the realms of programming, I find joy and fulfillment in various activities that enrich my life:
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Basketball
+              <ImPointRight /> Engaging in Basketball sessions
             </li>
             <li className="about-activity">
-              <ImPointRight /> Going on Runs
+              <ImPointRight /> Embarking on refreshing Runs
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Exploring new destinations through Travel
             </li>
             <li className="about-activity">
-              <ImPointRight /> Staying Active
+              <ImPointRight /> Maintaining an active lifestyle
             </li>
             <li className="about-activity">
-              <ImPointRight /> Reading Books
+              <ImPointRight /> Diving into the world of Literature through Books
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Never Settle!"{" "}
+            "Adhering to the ethos of perpetual growth and exploration."
           </p>
           <footer className="blockquote-footer">Aaditya</footer>
         </blockquote>
